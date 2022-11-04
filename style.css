@@ -8,39 +8,38 @@
 
 @font-face {
     font-family: 'AppleGaramond';
-    src: url('assets/fonts/AppleGaramond/AppleGaramond.woff') format('woff'),
-    url('assets/fonts/AppleGaramond/AppleGaramond.woff2') format('woff2');
+    src: url('assets/fonts/AppleGaramond/AppleGaramond-Light.woff') format('woff');
     font-display: block;
 }
 
 
 body {
-    margin: 3%;
-    background: #FFFEFC;
+    margin: 40px;
+    background: #EAAD64;
 }
   /* Basic page style resets */
   
 h1 {
     font-style: normal;
-    font-size: 40px;
+    font-size: 32px;
     font-family: 'AppleGaramond', sans-serif;
-    color: #9B4042;
+    color: #000;
     text-align: left;
-    line-height: 1.25em;
+    line-height: 1em;
 }
 
 p {
     font-style: normal;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'IBM Plex Mono', monospace;
-    color: #9B4042;
+    color: #000;
     line-height: 1.5em;
 }
   
 a {
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'IBM Plex Mono', monospace;
-    color: #9B4042;
+    color: #000;
 }
 
 a:hover {
@@ -55,7 +54,7 @@ ol {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   padding-inline-start: 40px;
-  font-size: 18px;
+  font-size: 16px;
   font-family: 'IBM Plex Mono', monospace;
-  color: #9B4042;
+  color: #000;
 }
