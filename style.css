@@ -6,13 +6,6 @@
 
 /* Our default values set as CSS variables */
 
-@font-face {
-    font-family: 'AppleGaramond';
-    src: url('assets/fonts/AppleGaramond/AppleGaramond-Light.woff') format('woff');
-    font-display: block;
-}
-
-
 body {
     margin: 40px;
     background: #DCD0CB;
