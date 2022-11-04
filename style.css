@@ -21,18 +21,18 @@ body {
   
 h1 {
     font-style: normal;
-    font-size: 2em;
+    font-size: 1em;
     font-family: 'Inter', sans-serif;
     color: #76608A;
     text-align: left;
-    line-height: 1.25em;
+    line-height: 1em;
     font-display: block;
     padding-bottom: 40px;
 }
 
 h2 {
   font-style: normal;
-  font-size: 2em;
+  font-size: 1em;
   font-family: 'Inter', sans-serif;
   color: #76608A;
   text-align: left;
@@ -44,7 +44,7 @@ h2 {
 
 p {
     font-style: normal;
-    font-size: 16px;
+    font-size: 1em;
     font-family: 'Inter', sans-serif;
     color: #76608A;
     line-height: 1.5em;
@@ -52,7 +52,7 @@ p {
 }
   
 a {
-    font-size: 2empx;
+    font-size: 1em;
     font-family: 'Inter', sans-serif;
     color: #76608A;
     font-display: block;
@@ -70,7 +70,7 @@ ol {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   padding-inline-start: 40px;
-  font-size: 2em;
+  font-size: 1em;
   font-family: 'Inter', sans-serif;
   color: #76608A;
   font-display: block;
