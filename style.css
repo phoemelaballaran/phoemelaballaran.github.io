@@ -1,0 +1,61 @@
+/* 
+  The style rules specify elements by type and by attributes such as class and ID
+  Each section indicates an element or elements, then lists the style properties to apply
+  See if you can cross-reference the rules in this file with the elements in index.html
+*/
+
+/* Our default values set as CSS variables */
+
+@font-face {
+    font-family: 'AppleGaramond';
+    src: url('assets/fonts/AppleGaramond/AppleGaramond.woff') format('woff'),
+    url('assets/fonts/AppleGaramond/AppleGaramond.woff2') format('woff2');
+    font-display: block;
+}
+
+
+body {
+    margin: 3%;
+    background: #FFFEFC;
+}
+  /* Basic page style resets */
+  
+h1 {
+    font-style: normal;
+    font-size: 40px;
+    font-family: 'AppleGaramond', sans-serif;
+    color: #9B4042;
+    text-align: left;
+    line-height: 1.25em;
+}
+
+p {
+    font-style: normal;
+    font-size: 18px;
+    font-family: 'IBM Plex Mono', monospace;
+    color: #9B4042;
+    line-height: 1.5em;
+}
+  
+a {
+    font-size: 18px;
+    font-family: 'IBM Plex Mono', monospace;
+    color: #9B4042;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  font-size: 18px;
+  font-family: 'IBM Plex Mono', monospace;
+  color: #9B4042;
+}
