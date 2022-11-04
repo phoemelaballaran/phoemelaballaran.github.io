@@ -6,28 +6,35 @@
 
 /* Our default values set as CSS variables */
 
+@font-face {
+    font-family: 'AppleGaramond';
+    src: url('assets/fonts/AppleGaramond/AppleGaramond-Light.woff') format('woff');
+    font-display: block;
+}
+
+
 body {
     margin: 40px;
-    background: #DCD0CB;
+    background: #F5F4EF;
 }
   /* Basic page style resets */
   
 h1 {
     font-style: normal;
-    font-size: 16px;
-    font-family: 'Inconsolata', monospace;
-    color: #000;
+    font-size: 2em;
+    font-family: 'Inter', sans-serif;
+    color: #76608A;
     text-align: left;
-    line-height: 1em;
+    line-height: 1.25em;
     font-display: block;
-    padding-bottom: 32px;
+    padding-bottom: 40px;
 }
 
 h2 {
   font-style: normal;
-  font-size: 16px;
-  font-family: 'Inconsolata', monospace;
-  color: #000;
+  font-size: 2em;
+  font-family: 'Inter', sans-serif;
+  color: #76608A;
   text-align: left;
   line-height: 1em;
   font-display: block;
@@ -38,16 +45,16 @@ h2 {
 p {
     font-style: normal;
     font-size: 16px;
-    font-family: 'Inconsolata', monospace;
-    color: #000;
+    font-family: 'Inter', sans-serif;
+    color: #76608A;
     line-height: 1.5em;
     font-display: block;
 }
   
 a {
-    font-size: 16px;
-    font-family: 'Inconsolata', monospace;
-    color: #000;
+    font-size: 2empx;
+    font-family: 'Inter', sans-serif;
+    color: #76608A;
     font-display: block;
 }
 
@@ -63,8 +70,8 @@ ol {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   padding-inline-start: 40px;
-  font-size: 16px;
-  font-family: 'Inconsolata', monospace;
-  color: #000;
+  font-size: 2em;
+  font-family: 'Inter', sans-serif;
+  color: #76608A;
   font-display: block;
 }
