@@ -15,31 +15,47 @@
 
 body {
     margin: 40px;
-    background: #EAAD64;
+    background: #DCD0CB;
 }
   /* Basic page style resets */
   
 h1 {
     font-style: normal;
-    font-size: 32px;
-    font-family: 'AppleGaramond', sans-serif;
+    font-size: 16px;
+    font-family: 'Inconsolata', monospace;
     color: #000;
     text-align: left;
     line-height: 1em;
+    font-display: block;
+    padding-bottom: 32px;
 }
+
+h2 {
+  font-style: normal;
+  font-size: 16px;
+  font-family: 'Inconsolata', monospace;
+  color: #000;
+  text-align: left;
+  line-height: 1em;
+  font-display: block;
+  text-transform: uppercase;
+}
+
 
 p {
     font-style: normal;
     font-size: 16px;
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Inconsolata', monospace;
     color: #000;
     line-height: 1.5em;
+    font-display: block;
 }
   
 a {
     font-size: 16px;
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Inconsolata', monospace;
     color: #000;
+    font-display: block;
 }
 
 a:hover {
@@ -57,4 +73,5 @@ ol {
   font-size: 16px;
   font-family: 'IBM Plex Mono', monospace;
   color: #000;
+  font-display: block;
 }
