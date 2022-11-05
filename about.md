@@ -17,13 +17,11 @@ permalink: /about/
 </ul>
 <br>
 <br>
-<p style="text-align: center;">
-  ✺ OTHER PLACES ✺
-  <br><a href="https://www.instagram.com/phoemelaballaran/" target="_blank">Instagram</a>
-  <br><a href="https://twitter.com/phoemela_" target="_blank">Twitter</a>
-  <br><a href="https://are.na/phoemela-ballaran" target="_blank">Are.na</a>
-  <br><a href="https://github.com/phoemelaballaran" target="_blank">GitHub</a>
-  <br><br>
-  <br>View my <a href="https://read.cv/phoemelaballaran" target="_blank">CV</a>
-</p>
+<p>
+OTHER PLACES
+<br><a href="https://www.instagram.com/phoemelaballaran/" target="_blank">Instagram</a>
+<br><a href="https://twitter.com/phoemela_" target="_blank">Twitter</a>
+<br><a href="https://are.na/phoemela-ballaran" target="_blank">Are.na</a>
+<br><a href="https://github.com/phoemelaballaran" target="_blank">GitHub</a>
+<br><a href="https://read.cv/phoemelaballaran" target="_blank">CV</a>
 <br><br>
