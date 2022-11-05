@@ -70,7 +70,7 @@
 
 // behaviors
 .row__active {
-  font-style: italic;
+  text-decoration: line-through;
 }
 
 // media queries
@@ -83,7 +83,7 @@
       }
 
       .row__active {
-        font-style: italic;
+        text-decoration: line-through;
       }
 
       .row__img {
