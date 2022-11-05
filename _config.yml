@@ -12,7 +12,7 @@ desc: >
 date_format: "%Y"
 post_title: Post
 post_date: Year
-post_cat: Tag
+post_cat: Category
 
 # post detail
 prev-next: true
@@ -26,7 +26,7 @@ collections:
 date_format: "%Y"
 project_title: Project
 project_date: Year
-project_cat: Tag
+project_cat: Category
 
 # build settings
 markdown: kramdown
