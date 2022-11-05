@@ -1,0 +1,46 @@
+{% if site.projects %}
+  <ul class="rows">
+    <li class="row__cols">
+      <div class="row__title">
+        {% if site.project_title %}
+          {{ site.project_title }}
+        {% else %}
+          Title
+        {% endif %}
+      </div>
+      <div class="row__date">
+        {% if site.project_date %}
+          {{ site.project_date }}
+        {% else %}
+          Date
+        {% endif %}
+      </div>
+      <div class="row__cat">
+        {% if site.project_cat %}
+          {{ site.project_cat }}
+        {% else %}
+          Category
+        {% endif %}
+      </div>
+    </li>
+    {% for project in site.projects %}
+      <li class="row__post">
+        <a href="{{ site.url }}{{ project.url | relative_url }}">
+          <div class="row__title {% if include.uid == project.id %}row__active{% endif %}">
+            {{ project.title }}
+          </div>
+          <div class="row__date {% if include.uid == project.id %}row__active{% endif %}">
+            {% if site.date_format %}
+              {{ project.date | date: site.date_format }}
+            {% else %}
+              {{ project.date | date: "%b %-d, %Y" }}
+            {% endif %}
+          </div>
+          <div class="row__cat {% if include.uid == project.id %}row__active{% endif %}">
+            {{ project.category }}
+          </div>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
