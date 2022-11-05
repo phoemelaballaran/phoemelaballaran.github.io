@@ -5,6 +5,8 @@ permalink: /about/
 ---
 <h1>Hello! I’m Phoemela Ballaran, a data curator, designer, and writer.</h1>
 <br>
+<p align="center"><img class=small src="https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/about/about.png"/></p>
+<br>
 <p>Goethe said that we are shaped and fashioned by what we love. A non-exhaustive list of what I love:</p>
 <ul>
   <li>balancing of opposites</li>
