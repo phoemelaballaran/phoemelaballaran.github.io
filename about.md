@@ -3,7 +3,7 @@ layout: about
 title:  Nice to meet you
 permalink: /about/
 ---
-<h1>Hello! I’m Phoemela Ballaran, a data curator, designer, and writer.</h1>
+<h1>Hello! I’m Phoemela Ballaran and this website is my playground.</h1>
 <br>
 <p align="center"><img class="vertical" src="https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/about/about.png"/></p>
 <br>
