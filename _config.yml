@@ -18,13 +18,13 @@ post_cat: Category
 prev-next: true
 
 collections:
-  projects:
+  experiments:
     output: true
     permalink: /:collection/:title
 
-# projects
+# experiments
 date_format: "%Y"
-project_title: Project
+project_title: Experiment
 project_date: Year
 project_cat: Category
 
