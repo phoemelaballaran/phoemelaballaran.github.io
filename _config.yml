@@ -18,15 +18,15 @@ post_cat: Category
 prev-next: true
 
 collections:
-  experiments:
+  projects:
     output: true
     permalink: /:collection/:title
 
-# experiments
+# projects
 date_format: "%Y"
-exp_title: Experiment
-exp_date: Year
-exp_cat: Category
+project_title: Project
+project_date: Year
+project_cat: Category
 
 # build settings
 markdown: kramdown
