@@ -1,0 +1,36 @@
+# site
+title: Phoemela Ballaran
+url: "https://phoemelaballaran.github.io"
+favicon: "/assets/icon-green.png"
+g_analytics: UA-12345678-1
+
+# bio
+header: PHOEMELA BALLARAN
+desc: >
+  
+# posts
+date_format: "%Y"
+post_title: Post
+post_date: Year
+post_cat: Tag
+
+# post detail
+prev-next: true
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:title
+
+# projects
+date_format: "%Y"
+project_title: Project
+project_date: Year
+project_cat: Tag
+
+# build settings
+markdown: kramdown
+# theme: louie
+exclude:
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,20 @@
+<div class="bio">
+  <div class="bio__header">
+  	<a href="{{ site.url }}{{ "/" | relative_url }}">
+	  {{ site.header }}
+	</a>
+  </div>
+  {% if site.data.social %}
+    <ul class="bio__social">
+      {% for item in site.data.social %}
+	    <li>
+		<a href="{{ item.url}}" style="text-decoration:none">
+			<p class="social__notactive {% if include.uid == item.url %}social__active{% endif %}" href="{{ item.url }}" target="_self">
+ 				{{ item.title }}
+			</p>
+		</a>
+	    </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>
