@@ -71,10 +71,14 @@ $paginate-padding: 13px;
   img {
     border: 1px solid $color__black;
     max-width: 90%;
+    text-align:center;
+    display:block;
   }
   
   img.vertical {
     max-width: 75%;
+    text-align:center;
+    display:block;
   }
 }
 
