@@ -63,22 +63,27 @@ h1 {
 }
 
 a {
-  // display: block;
-  // width: 100%;
-  // height: 100%;
   color: $color__black;
-
+  font-display: block;
+    
   &:link {
     text-decoration: underline;
+    text-underline-offset: 3px;
   }
-  
+
+  &:visited {
+    font-style: italic;
+    text-decoration: none;
+  }
+    
   &:hover {
-    text-decoration: line-through;
+    font-style: italic;
+    text-decoration: none;
   }
     
   &:active {
-      text-decoration: none;
-      font-style: italic;
+    font-style: italic;
+    text-decoration: none;
   }
 }
 
