@@ -12,11 +12,13 @@
   position: absolute;
   max-width: 500px;
   max-height: 500px;
-  top: random(500) - random(500) + px;
-  left: random(500) + px;
+  margin: auto;
+  top: 50%;
+  transform: translate(0, -50%);
   z-index: -1;
   opacity: 0;
   transition: opacity 500ms;
+            
 }
 
 .row__cols,
@@ -89,25 +91,7 @@
       }
     }
 
-    &:nth-child(2n) .row__img {
-      top: random(250) - random(250) + px;
-      left: random(500) + px;
-    }
-
-    &:nth-child(3n) .row__img {
-      top: random(250) - random(250) + px;
-      left: random(500) + px;
-    }
-
-    &:nth-child(4n) .row__img {
-      top: random(250) - random(250) + px;
-      left: random(500) + px;
-    }
-
-    &:nth-child(5n) .row__img {
-      top: random(250) - random(250) + px;
-      left: random(500) + px;
-    }
+    
   }
 }
 
