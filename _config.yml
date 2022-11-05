@@ -24,9 +24,9 @@ collections:
 
 # experiments
 date_format: "%Y"
-project_title: Experiment
-project_date: Year
-project_cat: Category
+exp_title: Experiment
+exp_date: Year
+exp_cat: Category
 
 # build settings
 markdown: kramdown
