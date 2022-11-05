@@ -16,14 +16,11 @@ permalink: /about/
   <li>pursuing purpose with sincerity and playfulness</li>
 </ul>
 <br>
-<br>
-<br>OTHER PLACES
-<br>⚘ <a href="https://github.com/phoemelaballaran" target="_blank">GitHub</a>
-<br>⚘ <a href="https://www.linkedin.com/in/pballaran/" target="_blank">LinkedIn</a>
-<br>⚘ <a href="https://www.instagram.com/phoemelaballaran/" target="_blank">Instagram</a>
-<br>⚘ <a href="https://twitter.com/phoemela_" target="_blank">Twitter</a>
-<br>⚘ <a href="https://are.na/phoemela-ballaran" target="_blank">Are.na</a>
+<br>✺ OTHER PLACES ✺
+<br><a href="https://www.instagram.com/phoemelaballaran/" target="_blank">Instagram</a>
+<br><a href="https://twitter.com/phoemela_" target="_blank">Twitter</a>
+<br><a href="https://are.na/phoemela-ballaran" target="_blank">Are.na</a>
+<br><a href="https://github.com/phoemelaballaran" target="_blank">GitHub</a>
 <br><br>
-<br>✺ Reach me through phoemelaballaran@gmail.com
-<br>✺ View my <a href="https://read.cv/phoemelaballaran" target="_blank">CV</a>
+<br>View my <a href="https://read.cv/phoemelaballaran" target="_blank">CV</a>
 <br><br>
