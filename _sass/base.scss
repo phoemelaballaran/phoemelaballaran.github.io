@@ -38,11 +38,13 @@ $color__yellow:     #EAEAEA;
 }
 
 ::selection {
-  background: $color__yellow;
+    background: $color__black;
+    color: $color__beige;
 }
 
 ::-moz-selection {
-  background: $color__yellow;
+    background: $color__black;
+    color: $color__beige;
 }
 
 hr {
