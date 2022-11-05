@@ -20,19 +20,9 @@ $font__line-height: 2;
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'Tropico';
-    src: url('https://phoemelaballaran.github.io/assets/webfont/tropico/TropicoSalte.woff2') format('woff2'),
-        url('https://phoemelaballaran.github.io/assets/webfont/tropico/TropicoSalte.woff') format('woff'),
-        url('https://phoemelaballaran.github.io/assets/webfont/tropico/TropicoSalte.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: block;
-}
-
 // colors
-$color__black:      #869486;
-$color__gray:       #869486;
+$color__black:      #3D5D86;
+$color__gray:       #3D5D86;
 $color__beige:      #F3F3F3;
 $color__yellow:     #EAEAEA;
 
