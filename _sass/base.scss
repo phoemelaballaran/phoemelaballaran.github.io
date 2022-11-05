@@ -71,7 +71,15 @@ a {
   &:link {
     text-decoration: underline;
   }
-
+  
+  &:hover {
+    text-decoration: line-through;
+  }
+    
+  &:active {
+      text-decoration: none;
+      font-style: italic;
+  }
 }
 
 // layout
