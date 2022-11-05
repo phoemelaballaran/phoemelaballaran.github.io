@@ -7,10 +7,14 @@ permalink: /about/
 <br>
 <p align="center"><img class=small src="https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/about/portrait.png"/></p>
 <br>
-<p>
-  Goethe said that we are shaped and fashioned by what we love. A non-exhaustive list of what I love: balancing of opposites; 
-  reflecting ⇄ taking action; embracing nuances; surrounding myself with kind and creative people; pursuing purpose with sincerity and playfulness.
-</p>
+<p>Goethe said that we are shaped and fashioned by what we love. A non-exhaustive list of what I love:</p>
+<ol>
+  <li>balancing of opposites</li>
+  <li>reflecting ⇄ taking action</li>
+  <li>embracing nuances</li>
+  <li>surrounding myself with kind and creative people</li>
+  <li>pursuing purpose with sincerity and playfulness</li>
+</ol>
 <br>
 <br>
 <br>OTHER PLACES
