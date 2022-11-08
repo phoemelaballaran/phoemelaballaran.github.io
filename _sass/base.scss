@@ -103,6 +103,21 @@ body {
   color: $color__black;
 }
 
+li {
+      list-style: none;
+    }
+
+    li:before {
+      content:'\273A';
+      display: block;
+      position: relative;
+      max-width: 0px;
+      max-height: 0px;
+      left: -10px;
+      top: -0px;
+      font-size: 16px;
+    }
+
 .container {
   max-width: 1200px;
   margin: 0 25px;
