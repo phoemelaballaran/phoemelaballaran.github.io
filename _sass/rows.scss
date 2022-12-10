@@ -71,6 +71,7 @@
 // behaviors
 .row__active {
   text-decoration: line-through;
+  text-decoration-thickness: 1px;
 }
 
 // media queries
@@ -79,11 +80,13 @@
       &:hover {
       * {
         text-decoration: underline;
+        text-decoration-thickness: 1px;
         cursor: pointer;
       }
 
       .row__active {
         text-decoration: underline;
+        text-decoration-thickness: 1px;
       }
 
       .row__img {
