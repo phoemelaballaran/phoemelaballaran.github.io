@@ -2,8 +2,8 @@ $on-palm:           600px !default;
 $on-laptop:         800px !default;
 
 // typography
-@import ('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
-$bodyfont:       'Amiri', serif;
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
+$font__name:       'Amiri Quran', serif;
 $font__size:        16px;
 $font__weight:      400;
 $font__line-height: 2;
@@ -96,7 +96,7 @@ body {
   margin: 25px 0;
   padding: 0;
   background: $color__beige;
-  font-family: $bodyfont;
+  font-family: $font__name;
   font-size: $font__size;
   font-weight: $font__weight;
   line-height: $font__line-height;
