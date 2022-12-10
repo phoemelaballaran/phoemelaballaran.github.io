@@ -72,6 +72,7 @@
 .row__active {
   text-decoration: line-through;
   text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 
 // media queries
@@ -81,12 +82,14 @@
       * {
         text-decoration: underline;
         text-decoration-thickness: 1px;
+        text-underline-offset: 3px;
         cursor: pointer;
       }
 
       .row__active {
         text-decoration: underline;
         text-decoration-thickness: 1px;
+        text-underline-offset: 3px;
       }
 
       .row__img {
