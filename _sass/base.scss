@@ -65,17 +65,21 @@ h1 {
 a {
   color: $color__black;
   text-decoration: underline;
+  text-decoration-thickness: 1px;
 
   &:visited {
     text-decoration: line-through;
+     text-decoration-thickness: 1px;
   }
     
   &:hover {
     text-decoration: line-through;
+      text-decoration-thickness: 1px;
   }
     
   &:active {
     text-decoration: line-through;
+      text-decoration-thickness: 1px;
   }
 }
 
