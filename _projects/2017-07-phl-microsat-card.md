@@ -15,12 +15,6 @@ img: https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/ph
   <p>
     Every year, DOST holds National Science and Technology Week (NSTW) and PHL-Microsat was one of the exhibitors that year. Since I was the PR person for the program, I was tasked with creating a brochure to introduce PHL-Microsat to the public. But instead of a brochure, I designed an interactive card instead.
   </p>
-  <br>
-  <figure>
-    <img src="https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/phl-microsat/microsat2.jpg">
-    <figcaption>Through the mobile app Aurasma, one can scan the illustration on the front side of the card. This triggers the app to show a video of Diwata-1’s release into space on the circular area where the illustration is.</figcaption>
-  </figure>
-  <br>
   <p>Design considerations:
   </p>
   <ul>
@@ -33,4 +27,10 @@ img: https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/ph
     <li>
       The QR code on the card redirects to an Adobe Spark page that outlines the journey of Diwata-1 in space and provides basic information about the microsatellite.
     </li>
+    <br>
+  <figure>
+    <img src="https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/phl-microsat/microsat2.jpg">
+    <figcaption>Through the mobile app Aurasma, one can scan the illustration on the front side of the card. This triggers the app to show a video of Diwata-1’s release into space on the circular area where the illustration is.</figcaption>
+  </figure>
+  <br>
   
