@@ -22,8 +22,15 @@ img: https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/ph
   </figure>
   <br>
   <p>Design considerations:
-  * A card with QR code and AR elements is a cost-effective alternative to brochures at an event with free wi-fi access.
-* I made a layout that only uses black ink to ensure the card's aesthetic is not affected by photocopying.
-* The QR code on the card redirects to an Adobe Spark page that outlines the journey of Diwata-1 in space and provides basic information about the microsatellite.
-  
+  </p>
+  <ul>
+    <li>
+      A card with QR code and AR elements is a cost-effective alternative to brochures at an event with free wi-fi access.
+    </li>
+    <li>
+      I made a layout that only uses black ink to ensure the card's aesthetic is not affected by photocopying.
+    </li>
+    <li>
+      The QR code on the card redirects to an Adobe Spark page that outlines the journey of Diwata-1 in space and provides basic information about the microsatellite.
+    </li>
   
