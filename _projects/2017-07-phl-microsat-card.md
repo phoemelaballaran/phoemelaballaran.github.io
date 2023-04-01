@@ -9,7 +9,7 @@ img: https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/ph
 <br><b>
   <figure>
     <img src="https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/phl-microsat/microsat1.jpg">
-    <figcaption>Demonstrating the AR card to students at an NSTW exhibit in Romblon.</figcaption>
+    <figcaption>Front and back view of the augmented reality (AR) cards given away at the PHL-Microsat’s booth for National Science and Technology Week 2017.</figcaption>
   </figure>
 <br>
   <p>
