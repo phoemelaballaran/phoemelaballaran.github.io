@@ -15,6 +15,7 @@ img: https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/ph
   <p>
     Every year, DOST holds National Science and Technology Week (NSTW) and PHL-Microsat was one of the exhibitors that year. Since I was the PR person for the program, I was tasked with creating a brochure to introduce PHL-Microsat to the public. But instead of a brochure, I designed an interactive card instead.
   </p>
+  <br>
   <p>Design considerations:
   </p>
   <ul>
