@@ -2,7 +2,7 @@
 layout: project
 title:  Learning experience design
 author: Phoemela Ballaran
-category: Data
+category: Design
 date: 2022-12-01
 img: https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/learning-experience-design.png
 ---
