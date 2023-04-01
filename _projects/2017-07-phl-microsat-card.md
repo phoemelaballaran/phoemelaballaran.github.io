@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Learning experience design
+title:  PHL-Microsat interactive cards
 author: Phoemela Ballaran
 category: Design
 date: 2017-07-01
