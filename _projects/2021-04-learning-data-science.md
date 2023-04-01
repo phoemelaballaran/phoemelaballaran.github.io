@@ -4,7 +4,7 @@ title:  Learning data science
 author: Phoemela Ballaran
 category: Data
 date: 2022-11-04
-img: https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/myhome-cover.png
+img: https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/learning-data-science.png
 ---
 <br><br>
 <img src="https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/myhome.png">
