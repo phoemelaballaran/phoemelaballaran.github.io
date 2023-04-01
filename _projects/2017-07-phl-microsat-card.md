@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  PHL-Microsat interactive cards
+title:  Interactive cards for a science program
 author: Phoemela Ballaran
 category: Design
 date: 2017-07-01
