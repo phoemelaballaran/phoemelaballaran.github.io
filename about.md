@@ -21,7 +21,7 @@ permalink: /about/
 OTHER PLACES
 <br><a href="https://comoballar.github.io" target="_blank">Personal Blog</a>
 <br><a href="https://www.instagram.com/phoemelaballaran/" target="_blank">Instagram</a>
-<br><a href="https://twitter.com/hellophoemela" target="_blank">Twitter</a>
+<br><a href="https://twitter.com/heyphoemela" target="_blank">Twitter</a>
 <br><a href="https://are.na/phoemela-ballaran" target="_blank">Are.na</a>
 <br><a href="https://github.com/phoemelaballaran" target="_blank">GitHub</a>
 <br><a href="https://read.cv/phoemelaballaran" target="_blank">CV</a>
