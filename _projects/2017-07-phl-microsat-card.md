@@ -33,4 +33,7 @@ img: https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/ph
     <figcaption>Through the mobile app Aurasma, one can scan the illustration on the front side of the card. This triggers the app to show a video of Diwata-1’s release into space on the circular area where the illustration is.</figcaption>
   </figure>
   <br>
-  
+  <figure>
+    <img src="https://raw.githubusercontent.com/phoemelaballaran/imagedb/main/projects/phl-microsat/microsat3.JPG">
+    <figcaption>Demonstrating the AR card to students at an NSTW exhibit in Romblon.</figcaption>
+  </figure>
